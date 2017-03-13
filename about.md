@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
 permalink: /about/
+title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my little tech blog, about the things I learn in my job and in my free
+time.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I’m Marcel Ribas, a frustrated software engineer from Brazil, living in the
+Austin, TX area for the past 11 years.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I currently work for IBM, but this is my personal space and views are my own.
+
+Welcome!
