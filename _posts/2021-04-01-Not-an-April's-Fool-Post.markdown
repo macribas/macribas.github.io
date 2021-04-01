@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Not an April's Fool Post"
-date:   2021-04-01
+date:   2021-04-01 00:30:00 -0600
 ---
 Not an April's Fool Post
 ========================
