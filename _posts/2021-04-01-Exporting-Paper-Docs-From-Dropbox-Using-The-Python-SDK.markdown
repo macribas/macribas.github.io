@@ -15,7 +15,7 @@ Originally Paper was a separate repository, but when Dropbox started to integrat
 With that, [the original Paper API has been deprecated](https://developers.dropbox.com/paper-migration-guide). Because Cloud Docs are, well, in the cloud, they are not regular files. Most of them are JSON or XML documents that are treated by the web apps as if they were files. Therefore you cannot download them. Instead, if you need to take them out of Dropbox, you need to export them. 
 
 
-[There is an endpoint to export Paper files](https://dropbox.tech/developers/new-paper-endpoints-released-in-preview), and I created a Python script to demonstrate its functionality.  
+[There is an endpoint to export Paper files](https://dropbox.tech/developers/new-paper-endpoints-released-in-preview), and I created a Python script to demonstrate its functionality. It uses the [Dropbox API Python SDK](https://dropbox-sdk-python.readthedocs.io/en/latest/index.html).  
 
 
 [Here it is!](https://github.com/dropbox/DropboxBusinessScripts/blob/master/Paper/paper-export.py)  
