@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Not an April's Fool Post"
+date:   2021-04-01
+---
 Not an April's Fool Post
 ========================
 It's been a while I haven't posted, so this might feel like a prank. It isn't. I'm going to try to get back to the habit of writing and sharing my things here. 
